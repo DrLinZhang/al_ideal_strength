@@ -1,12 +1,11 @@
-# al_ideal_strength 
+# Stability criteria of Aluminum lattice from first-principles
 
-## Dataset Title
-LinearStrengthLateralStressAluminumData.csv
+## Dataset file
+[LinearStrengthLateralStressAluminumData.csv](LinearStrengthLateralStressAluminumData.csv)
 
 ## Description: 
-This dataset contains numerical values of key geometric and physical parameters from a high-throughput ab initio study that investigates the linear relationship of ideal strength with lateral stress under 0-600 GPa in Aluminum, authored by Lin Zhang, Tianle Wang, and Feng Liu. 
-This is a placeholder description and data until the manuscript is officially accepted and published. 
-The data is posed for transparency and scientific reproducibility, including the results of DFT (Density Functional Theory) calculations.
+This dataset contains numerical values of key geometric and physical parameters from a high-throughput ab initio study that investigates the linear relationship of ideal strength with lateral stress under 0-600 GPa of aluminum (Al) lattice, authored by Lin Zhang, Tianle Wang, and Feng Liu. 
+The dataset for this computational investigation is extensive, comprising over 69,000 unique structural configurations of Al. 
 
 ## Dataset Overview
 - a(Å): Unit cell length along the a-axis in Angstroms.
@@ -23,14 +22,13 @@ The data is posed for transparency and scientific reproducibility, including the
 - Format Provided: The data is provided in CSV format, suitable for analyses with various software tools including Python (with libraries like Pandas), MATLAB, R, or for visualization in Excel, etc.
 - Typical Analysis: Sample analysis can include constructing scatter plots of deformation gradient components against unit cell lengths as well as Lagrangian strain components. These may provide insights into the material behavior under different stress conditions.
 
-## Reference and Cite
-- Paper Title: High-throughput ab-initio Investigation for Linear Relationship of Ideal Strength with Lateral Stress under 0-600 GPa in Aluminum
-- Authors: Lin Zhang, Tianle Wang, and Feng Liu. - Citation: - Please cite our work when using this dataset in your publication or research.
-- Note: [TEMPORARY PLACEHOLDER] This manuscript is currently in submission and has not yet been published. Please check for final publication details, including DOI for proper citation.
-
-## Data Access Note: 
-- As of now, this is a preliminary data access framework which will evolve upon manuscript acceptance and publication.
-- Placeholders for description detail and content will be updated with precise values.
+## Paper info and Cite
+- Paper Title: Stability criteria of Aluminum lattice from first-principles
+- Authors: Lin Zhang, Tianle Wang, and Feng Liu. 
+- Journal: Journal of Materials Research and Technology
+- Link: https://www.sciencedirect.com/science/article/pii/S2238785424028953
+- DOI: https://doi.org/10.1016/j.jmrt.2024.12.092
+- Citation: Please cite our work when using this dataset in your publication or research with the bib file.
 
 ## Contributors: 
 - Lin Zhang
@@ -38,7 +36,7 @@ The data is posed for transparency and scientific reproducibility, including the
 - Feng Liu
 
 ## License
-- This dataset is for non-commercial use and subject to an academic license (please refer to the LICENSE file for the specific details).
+- This dataset is for non-commercial use and subject to an academic license.
 
 ## Note
 Ensure to acknowledge the source (authors and paper title) and usage rights while exploiting or redistributing this dataset. 
