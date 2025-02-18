@@ -26,7 +26,7 @@ The dataset for this computational investigation is extensive, comprising over 6
 - Paper Title: Stability criteria of Aluminum lattice from first-principles
 - Authors: Lin Zhang, Tianle Wang, and Feng Liu. 
 - Journal: Journal of Materials Research and Technology
-- Year: 2015
+- Year: 2025
 - Volume: 34
 - Pages: 1144-1157
 - Link: https://www.sciencedirect.com/science/article/pii/S2238785424028953
